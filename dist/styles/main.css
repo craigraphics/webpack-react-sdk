@@ -1,0 +1,4 @@
+.surface{min-width:400px}
+
+html{font-size:1rem;font-family:sans-serif;background:#fff;color:#999;max-width:650px;line-height:1.4}body{margin:0;width:100vw}#root,#create-user{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-ms-flex-item-align:center;align-self:center;height:100vh}h1{text-align:center;max-width:90vw}
+

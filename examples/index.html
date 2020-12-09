@@ -4,10 +4,11 @@
       <title>webpack demo</title>
   </head>
   <script src="../dist/create-user.js"></script>
+  <link rel="stylesheet" href="../dist/styles/main.css">
   <body>
     <div id="create-user"></div>
     <script>
-      createUser.render(document.getElementById('create-user'), {name: 'William'})
+      createUser.render(document.getElementById('create-user'), {description: 'This a props description'})
     </script>
   </body>
   
